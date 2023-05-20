@@ -1,4 +1,4 @@
-# Bài Tập Lớn Java: Hotel_Manager
+# Bài Tập Giữa Kì Môn Lập Trình Java Nâng Cao
 # Viết chương trình quản lý sách trong thư viện.
 Yêu cầu:
   - Dữ liệu sách và user được lưu trên CSDL.
